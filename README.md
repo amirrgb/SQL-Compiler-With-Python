@@ -47,11 +47,11 @@ Welcome to the **SQL Compiler** project! This project is designed to parse and c
 1. Open your terminal or command prompt.
 2. Run the following command to clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/your-username/SQL-Compiler-With-Python.git
     ```
 3. Navigate to the project directory:
     ```bash
-    cd your-repository
+    cd SQL-Compiler-With-Python
     ```
 
 ### Install Dependencies
